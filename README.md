@@ -105,11 +105,6 @@ The tool interacts with the following standard Configuration Manager SQL views:
 | `v_TaskSequencePackage` | Maps package identifiers to friendly Task Sequence names. |
 | `v_GS_COMPUTER_SYSTEM` | Gathers hardware model details for summary reporting. |
 
-### MDT Integration
-
-When Bare-Metal PXE boot runs on unknown computers, ConfigMgr initially records their computer name as `Unknown`. The script includes helper routines to query an MDT Web Service endpoint (via OData / REST), matching the machine's SMBIOS GUID from `v_R_System.SMBIOS_GUID0` to assign the proper pre-staged computer name in the UI.
-
----
 
 ## Prerequisites
 
