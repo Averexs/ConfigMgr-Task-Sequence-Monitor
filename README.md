@@ -126,7 +126,7 @@ When Bare-Metal PXE boot runs on unknown computers, ConfigMgr initially records 
 
 1. Clone or download the repository to your local administrative workstation:
    ```powershell
-   git clone https://github.com/your-org/configmgr-ts-monitor.git
+   git clone https://github.com/Averexs/ConfigMgr-Task-Sequence-Monitor.git
    cd configmgr-ts-monitor
    ```
 
