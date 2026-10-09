@@ -13,7 +13,6 @@ Originally conceptualized by Trevor Jones and re-architected into a standalone s
 - [How It Works](#how-it-works)
   - [Architecture & Concurrency](#architecture--concurrency)
   - [Database Queries & Views](#database-queries--views)
-  - [MDT Integration](#mdt-integration)
 - [Prerequisites](#prerequisites)
 - [Installation & Initial Configuration](#installation--initial-configuration)
 - [Usage Guide](#usage-guide)
